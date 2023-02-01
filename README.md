@@ -1,10 +1,11 @@
 # Java Learning
 
-This project contains 99 Java challenges which you can do to become a better developer or learn Java. 
+This project contains 99 Java challenges that you can do to become a better developer or learn Java.
 
-The challenges are divided by difficulty: Beginner, Junior, Intermediate, Advanced, Hero
+The challenges are divided by difficulty: Beginner, Junior, Intermediate, Advanced, and Hero.
 
 Each level contains some subjects that are crucial to know. If you already know, you can skip it.
+
 
 ### Beginner
 
