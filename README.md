@@ -37,8 +37,8 @@ Each level contains some subjects that are crucial to know. If you already know,
 
 ### Hero
 
- - Level 1 (3)
- - Level 2
+ - Level 1 (4)
+ - Level 2 (3)
 
 
 
