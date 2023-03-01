@@ -4,12 +4,13 @@ You must master these levels before you can create your own Java programs.
 At this level, you will learn the fundamentals of Java and how to get started creating Java applications.
 
 
+ - Level 1 (JDK, Maven, IDE, Environment)
  - Level 2 (Class, BigDecimal, Integer, operations, Switch, If, String, StringBuilder)
  - Level 3 (OOP, Date, String, List, Tree, Recursion)
 
 
 
-## Level 1 (Java, Maven, IDE, Enviroment)
+## Level 1 (Java, Maven, IDE, Environment)
 
 ### 1. Choose a IDE
 
